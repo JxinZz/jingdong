@@ -6,7 +6,7 @@
             <div class="cetegory__item">新鲜水果</div>
             <div class="cetegory__item">休闲食品</div>
             <div class="cetegory__item">时令蔬菜</div>
-            <div class="cetegory__item">肉蛋家禽</div>
+            <!-- <div class="cetegory__item">肉蛋家禽</div> -->
         </div>
         <div class="product">
             <div class="product__item">
