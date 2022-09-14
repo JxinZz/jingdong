@@ -91,12 +91,13 @@ export default {
         margin: 0 .4rem .16rem .4rem;
         padding: 0 .16rem;
         background: #F9F9F9;
-        border: 1px solid rgba(0, 0, 0, 0.10);
-        border-radius: 6px;
-        border-radius: 6px;
+        border: .01rem solid rgba(0, 0, 0, 0.10);
+        border-radius: .06rem;
+        border-radius: .06rem;
 
         &__content {
-            line-height: .48rem;
+            margin-top:.12rem;
+            line-height: .22rem;
             border: none;
             outline: none;
             width: 100%;
@@ -117,7 +118,7 @@ export default {
         box-shadow: 0 .04rem .08rem 0 rgba(0, 145, 255, 0.32);
         border-radius: .04rem;
         border-radius: .04rem;
-        color: #fff;
+        color: $bgColor;
         font-size: .16rem;
         text-align: center;
     }

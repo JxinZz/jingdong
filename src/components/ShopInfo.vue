@@ -39,7 +39,7 @@ export default {
         flex: 1;
         padding-bottom: .12rem;
         &--borderd{  
-            border-bottom: 1px solid $content-fontcolor;
+            border-bottom: .01rem solid $content-fontcolor;
 
         }
       
@@ -65,7 +65,7 @@ export default {
             margin: .08rem 0 0 0;
             line-height: .18rem;
             font-size: .13rem;
-            color: #e93b3b;
+            color: $hightlight-fontColor;
         }
     }
 }
